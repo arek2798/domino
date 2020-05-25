@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575471885 source:c:\users\arekk\onedrive\desktop\pop projekt\domino\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
